@@ -1,3 +1,40 @@
-body {
+h1 {
+  color: green
+}
 
+body {
+  background-color: antiquewhite
+}
+
+
+img{
+  border: dashed 5px green; 
+}
+
+img: hover {
+  border: dotted 10px black;
+}
+
+
+
+
+
+nav{
+  list-style type: none;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+li {
+  display: inline;
+  padding: 10px;
+}
+li: hover {
+  background-color: gold;
+}
+
+a {
+  text-decoration: none;
+  color: green;
 }
