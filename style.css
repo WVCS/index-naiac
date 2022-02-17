@@ -38,6 +38,7 @@ a {
   text-decoration: none;
   color: green;
 }
+
 table, th, td, tr {
   border: dashed green 3px;
   border-collapse: collapse; 
